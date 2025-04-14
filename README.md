@@ -1,8 +1,7 @@
 ## SmartObjectDetection
 An app that can recognize various shapes built with python and clipspy
 
-Tugas Besar II pada kuliah IF3170 bertujuan agar peserta kuliah mengimplementasikan Knowledge Based
-System (KBS) untuk mendeteksi bentuk dasar geometri. Point utama dari implementasi knowledge based
+Implementasi Knowledge Based System (KBS) untuk mendeteksi bentuk dasar geometri. Point utama dari implementasi knowledge based
 system ini adalah rule of representation, construction of inference engine, knowledge base construction,
 the image pre-processing dan user interface.
 
