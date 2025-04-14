@@ -1,4 +1,3 @@
-# Tugas Besar 2 IF3170
 ## SmartObjectDetection
 An app that can recognize various shapes built with python and clipspy
 
@@ -28,9 +27,3 @@ Untuk menggunakan aplikasi ini, pengguna dapat:
 2. Menekan tombol rule editor untuk melihat dan mengubah rules yang berjalan di balik algoritma deteksi objek
 3. Menekan tombol show rules untuk memperlihatkan rules yang berjalan di balik algoritma deteksi objek
 4. Menekan tombol show facts untuk melihat fakta-fakta yang aktif saat itu
-
-## Anggota Kelompok (Kelas K-02)
-1. 13517002 - Isa Mujahid Darussalam
-2. 13517029 - Reyhan Naufal Hakim
-3. 13517077 - Dandi Agus Maulana
-4. 13517104 - Muhammad Fikri Hizbullah
